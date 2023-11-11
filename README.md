@@ -8,5 +8,5 @@ Two to three sentences that state the problem you solved, the data used for the 
 # Modeling and Evaluation: 
 Name and describe the models you used for the project and any corresponding evaluation metrics.  
 
-### Conclusion: 
+# Conclusion: 
 Your recommendations for solving the problem and a description of any future steps you want to take to expand on your project. 
